@@ -46,7 +46,7 @@ The goal of this project is to simulate a corporate‑grade, end‑to‑end data
 
    * Write a project report
    * Build a presentation deckbash
-     git clone [https://github.com/your-username/customer-behavior-data-analysis.git](https://github.com/Vakdoth/Customer-online-shopping-behavior-analysis.github)
+     git clone [https://github.com/your-username/customer-behavior-data-analysis.git](https://github.com/Vakdoth/Customer-online-shopping-behavior-analysis.git)
      cd customer-behavior-data-analysis
 
  6.  This file contains:
